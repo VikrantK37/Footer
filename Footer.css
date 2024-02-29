@@ -1,0 +1,48 @@
+body{
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  align-items: end;
+  height: 100vh;
+  font-family: "Dancing Script", cursive;
+}
+
+footer{
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  padding: 20px 0px;
+}
+
+#left{
+  width:60%;
+  /* background-color: blueviolet; */
+  display: flex;
+ 
+}
+
+#right{
+  width: 30%;
+  /* background-color: burlywood; */
+  display: flex;
+  border-left: 1px solid grey;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0px;
+}
+
+h3{
+  font-size: 13px;
+  color: #878787;
+}
+
+li{
+  color: white;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
